@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		837BF5942175AB7B002ACD74 /* IRANYekanRegularMobile.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 837BF5932175AB7B002ACD74 /* IRANYekanRegularMobile.ttf */; };
+		837BF5962175AD8B002ACD74 /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837BF5952175AD8B002ACD74 /* Contact.swift */; };
+		837BF5982175B48F002ACD74 /* ContactCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837BF5972175B48F002ACD74 /* ContactCell.swift */; };
+		837BF59A2175B9A9002ACD74 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837BF5992175B9A9002ACD74 /* UIView.swift */; };
+		837BF59C2175B9B7002ACD74 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837BF59B2175B9B7002ACD74 /* CheckBox.swift */; };
+		837BF59E2175CDBB002ACD74 /* ContactCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837BF59D2175CDBB002ACD74 /* ContactCollectionCell.swift */; };
 		83B2F8BF2174759A00E45536 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B2F8BE2174759A00E45536 /* AppDelegate.swift */; };
-		83B2F8C12174759A00E45536 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B2F8C02174759A00E45536 /* ViewController.swift */; };
+		83B2F8C12174759A00E45536 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B2F8C02174759A00E45536 /* MainVC.swift */; };
 		83B2F8C42174759A00E45536 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83B2F8C22174759A00E45536 /* Main.storyboard */; };
 		83B2F8C72174759A00E45536 /* MoneyYar.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 83B2F8C52174759A00E45536 /* MoneyYar.xcdatamodeld */; };
 		83B2F8C92174759B00E45536 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83B2F8C82174759B00E45536 /* Assets.xcassets */; };
 		83B2F8CC2174759B00E45536 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83B2F8CA2174759B00E45536 /* LaunchScreen.storyboard */; };
+		83B2F8DC2174787200E45536 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B2F8DB2174787200E45536 /* Constants.swift */; };
+		BC465FFC815AD1A82C927819 /* Pods_MoneyYar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D86B40EFA17CEE2F06E214A7 /* Pods_MoneyYar.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4FB331C49E38D4B4F38C750F /* Pods-MoneyYar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MoneyYar.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MoneyYar/Pods-MoneyYar.debug.xcconfig"; sourceTree = "<group>"; };
+		7F68F0F110B9A430B29AC62E /* Pods-MoneyYar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MoneyYar.release.xcconfig"; path = "Pods/Target Support Files/Pods-MoneyYar/Pods-MoneyYar.release.xcconfig"; sourceTree = "<group>"; };
+		837BF5932175AB7B002ACD74 /* IRANYekanRegularMobile.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = IRANYekanRegularMobile.ttf; sourceTree = "<group>"; };
+		837BF5952175AD8B002ACD74 /* Contact.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
+		837BF5972175B48F002ACD74 /* ContactCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCell.swift; sourceTree = "<group>"; };
+		837BF5992175B9A9002ACD74 /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		837BF59B2175B9B7002ACD74 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
+		837BF59D2175CDBB002ACD74 /* ContactCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactCollectionCell.swift; sourceTree = "<group>"; };
 		83B2F8BB2174759A00E45536 /* MoneyYar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoneyYar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83B2F8BE2174759A00E45536 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		83B2F8C02174759A00E45536 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		83B2F8C02174759A00E45536 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		83B2F8C32174759A00E45536 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		83B2F8C62174759A00E45536 /* MoneyYar.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MoneyYar.xcdatamodel; sourceTree = "<group>"; };
 		83B2F8C82174759B00E45536 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83B2F8CB2174759B00E45536 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83B2F8CD2174759B00E45536 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83B2F8DB2174787200E45536 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		D86B40EFA17CEE2F06E214A7 /* Pods_MoneyYar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MoneyYar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +49,28 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC465FFC815AD1A82C927819 /* Pods_MoneyYar.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0CA47234F9D3451639B4662B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D86B40EFA17CEE2F06E214A7 /* Pods_MoneyYar.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		83B2F8B22174759A00E45536 = {
 			isa = PBXGroup;
 			children = (
 				83B2F8BD2174759A00E45536 /* MoneyYar */,
 				83B2F8BC2174759A00E45536 /* Products */,
+				C58B21EB998F80A3908BBD64 /* Pods */,
+				0CA47234F9D3451639B4662B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +85,95 @@
 		83B2F8BD2174759A00E45536 /* MoneyYar */ = {
 			isa = PBXGroup;
 			children = (
+				83B2F8D3217477E400E45536 /* Model */,
+				83B2F8D4217477EE00E45536 /* View */,
+				83B2F8D5217477F500E45536 /* Controller */,
+				83B2F8D6217477FB00E45536 /* Resources */,
+				83B2F8D72174780200E45536 /* Storyboard */,
+				83B2F8D82174780C00E45536 /* Utility */,
 				83B2F8BE2174759A00E45536 /* AppDelegate.swift */,
-				83B2F8C02174759A00E45536 /* ViewController.swift */,
-				83B2F8C22174759A00E45536 /* Main.storyboard */,
 				83B2F8C82174759B00E45536 /* Assets.xcassets */,
-				83B2F8CA2174759B00E45536 /* LaunchScreen.storyboard */,
 				83B2F8CD2174759B00E45536 /* Info.plist */,
 				83B2F8C52174759A00E45536 /* MoneyYar.xcdatamodeld */,
 			);
 			path = MoneyYar;
+			sourceTree = "<group>";
+		};
+		83B2F8D3217477E400E45536 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				837BF5952175AD8B002ACD74 /* Contact.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		83B2F8D4217477EE00E45536 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				837BF5972175B48F002ACD74 /* ContactCell.swift */,
+				837BF59D2175CDBB002ACD74 /* ContactCollectionCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		83B2F8D5217477F500E45536 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				83B2F8C02174759A00E45536 /* MainVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		83B2F8D6217477FB00E45536 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				83B2F8D92174784600E45536 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		83B2F8D72174780200E45536 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				83B2F8C22174759A00E45536 /* Main.storyboard */,
+				83B2F8CA2174759B00E45536 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
+		83B2F8D82174780C00E45536 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				83B2F8DA2174785500E45536 /* Extensions */,
+				83B2F8DB2174787200E45536 /* Constants.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		83B2F8D92174784600E45536 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				837BF5932175AB7B002ACD74 /* IRANYekanRegularMobile.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		83B2F8DA2174785500E45536 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				837BF5992175B9A9002ACD74 /* UIView.swift */,
+				837BF59B2175B9B7002ACD74 /* CheckBox.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		C58B21EB998F80A3908BBD64 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4FB331C49E38D4B4F38C750F /* Pods-MoneyYar.debug.xcconfig */,
+				7F68F0F110B9A430B29AC62E /* Pods-MoneyYar.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +183,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 83B2F8D02174759B00E45536 /* Build configuration list for PBXNativeTarget "MoneyYar" */;
 			buildPhases = (
+				01865E1EBDBB5341013A1031 /* [CP] Check Pods Manifest.lock */,
 				83B2F8B72174759A00E45536 /* Sources */,
 				83B2F8B82174759A00E45536 /* Frameworks */,
 				83B2F8B92174759A00E45536 /* Resources */,
+				1C5CBDFC0273A99E2DBA8235 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -127,20 +238,70 @@
 			files = (
 				83B2F8CC2174759B00E45536 /* LaunchScreen.storyboard in Resources */,
 				83B2F8C92174759B00E45536 /* Assets.xcassets in Resources */,
+				837BF5942175AB7B002ACD74 /* IRANYekanRegularMobile.ttf in Resources */,
 				83B2F8C42174759A00E45536 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		01865E1EBDBB5341013A1031 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MoneyYar-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1C5CBDFC0273A99E2DBA8235 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MoneyYar/Pods-MoneyYar-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/M13Checkbox/M13Checkbox.framework",
+				"${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework",
+				"${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/M13Checkbox.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxCocoa.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxSwift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MoneyYar/Pods-MoneyYar-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		83B2F8B72174759A00E45536 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				837BF59C2175B9B7002ACD74 /* CheckBox.swift in Sources */,
+				837BF5982175B48F002ACD74 /* ContactCell.swift in Sources */,
 				83B2F8C72174759A00E45536 /* MoneyYar.xcdatamodeld in Sources */,
-				83B2F8C12174759A00E45536 /* ViewController.swift in Sources */,
+				837BF59A2175B9A9002ACD74 /* UIView.swift in Sources */,
+				83B2F8C12174759A00E45536 /* MainVC.swift in Sources */,
+				837BF59E2175CDBB002ACD74 /* ContactCollectionCell.swift in Sources */,
+				837BF5962175AD8B002ACD74 /* Contact.swift in Sources */,
 				83B2F8BF2174759A00E45536 /* AppDelegate.swift in Sources */,
+				83B2F8DC2174787200E45536 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +445,7 @@
 		};
 		83B2F8D12174759B00E45536 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4FB331C49E38D4B4F38C750F /* Pods-MoneyYar.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -302,6 +464,7 @@
 		};
 		83B2F8D22174759B00E45536 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7F68F0F110B9A430B29AC62E /* Pods-MoneyYar.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
