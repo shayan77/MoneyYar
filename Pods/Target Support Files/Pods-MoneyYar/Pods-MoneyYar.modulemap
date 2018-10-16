@@ -1,0 +1,6 @@
+framework module Pods_MoneyYar {
+  umbrella header "Pods-MoneyYar-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+PODS:
+  - M13Checkbox (3.2.2)
+  - RxCocoa (4.3.1):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.1)
+
+DEPENDENCIES:
+  - M13Checkbox
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - M13Checkbox
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  M13Checkbox: a8c2491cfbbca10797925fd0b9154a782bf40d89
+  RxCocoa: 78763c7b07d02455598d9fc3c1ad091a28b73635
+  RxSwift: fe0fd770a43acdb7d0a53da411c9b892e69bb6e4
+
+PODFILE CHECKSUM: 870455d3fe0cf50aefb78710e03662abc0e365cb
+
+COCOAPODS: 1.5.3
